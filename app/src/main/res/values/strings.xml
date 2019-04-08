@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quis</string>
+    <string name="question_1">Bendera Manakah Ini ?</string>
+    <string name="question_3">Mana Yang Merupakan Bendera Indonesia?</string>
+    <string name="question_5">Warna Apa Saja Yang Ada Pada Bendera Brazil?</string>
+    <string name="question_6">apa nama julukan bendera amerika serikat?</string>
+    <string name="question_7">Ini adalah berdera afrika selatan,adaberapa jumlah warnannya?</string>
+    <string name="question_8">Ini adalah bendera jerman,Susunlah warna bendera tersebut?</string>
+    <string name="question_9">Mana yang merupakan bendera New Zeland?</string>
+    <string name="question_10">Apa nama julukan benedera indonesia ? Dan siapa penjahitnya?</string>
+    <string name="periksa_jawaban">Periksa Jawaban</string>
+    <string name="flags_quiz">Flags Quiz!</string>
+    <string name="ulangi_quiz">Ulangi Quiz</string>
+    <string name="soekarno">Soekarno</string>
+    <string name="sang_saka_merah_putih">Sang Saka Merah Putih</string>
+    <string name="bendera_pusaka">Bendera Pusaka</string>
+    <string name="fatmawati">Fatmawati</string>
+    <string name="r_a_kartini">R.A Kartini</string>
+    <string name="sang_merah_putih">Sang Merah Putih</string>
+    <string name="question_10_10">Question 10/10</string>
+    <string name="profil">Profil</string>
+    <string name="bantuan">Bantuan</string>
+</resources>
